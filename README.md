@@ -1,4 +1,4 @@
-<h1 align="center"><img width="30px"> Programa de reconocimiento facial</h1>
+<h1 align="center"><img width="30px"> Facial Recognition</h1>
 
 
 ## About the program:
