@@ -8,7 +8,7 @@
 
 - All about me is at **[My Website](https://jompy31.github.io/)**
 
-- Librerias: `Open CV(es una biblioteca libre de visión artificial originalmente desarrollada por Intel) Numpy (es una biblioteca para el lenguaje de programación Python que da soporte para crear vectores y matrices grandes multidimensionales) dlib(es un moderno kit de herramientas de C ++ que contiene algoritmos de aprendizaje de máquina (machine learning) y herramientas para crear software complejo en C ++)`
+- Librerias: `Open CV (is a free computer vision library originally developed by Intel) Numpy (is a library for the Python programming language that supports creating large multidimensional arrays and vectors) dlib (is a modern C++ toolkit that contains machine learning algorithms and tools for creating complex software in C++)`
 
 ## Instructions
 
